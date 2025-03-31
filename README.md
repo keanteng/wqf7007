@@ -10,5 +10,5 @@ Happy coding ⚡
 To view this repo:
 
 ```git
-git clone https://github.com/keanteng/wqd7007
+git clone https://github.com/keanteng/wqf7007
 ```
