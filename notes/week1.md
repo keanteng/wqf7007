@@ -1,3 +1,10 @@
+why nlp is important
+- to handle large amount of data - text data
+
+what is nlp
+- deals with the interaction between computers and humans by enabling computers to understand and process human language
+- the goal is to read, decipher, understand and make sense of human languages in a valuable way
+
 why nlp is hard
 - highly ambiguos at all levels
 - complex and subtle use of context to convey meaning
@@ -19,7 +26,7 @@ what is morphology
 - how words are constructred from basic meaning units
 
 what is syntax
-- grammtical arrangement of wards in a sentence to show relationship to one another in the sentence
+- grammtical arrangement of words in a sentence to show relationship to one another in the sentence
 - how word put together to from correct sentences
 
 what is semantic
